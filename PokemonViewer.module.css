@@ -1,0 +1,49 @@
+.viewer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button {
+    padding: 10px 20px;
+    background-color: #2a75bb;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color: #1b4d8c;
+}
+
+.feedbackButtons {
+    margin-top: 20px;
+}
+
+.coolButton {
+    padding: 10px 15px;
+    margin-right: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.coolButton:hover {
+    background-color: #45a049;
+}
+
+.tackyButton {
+    padding: 10px 15px;
+    background-color: #f44336;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.tackyButton:hover {
+    background-color: #e41e1e;
+}

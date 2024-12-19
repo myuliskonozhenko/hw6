@@ -1,0 +1,28 @@
+.details {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.image {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+
+.table {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 300px;
+    text-align: left;
+}
+
+.table th, .table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+.table th {
+    background-color: #f4f4f9;
+}
